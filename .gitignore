@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/EmployeeCrudRazor/.vs
+/EmployeeCrudRazor/EmployeeCrudRazor/bin
+/EmployeeCrudRazor/EmployeeCrudRazor/obj
+/EmployeeCrudRazor/EmployeeCrudRazor/obj
+/EmployeeListMVC/.vs
+/EmployeeListMVC/bin
+/EmployeeListMVC/obj
